@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grid View With Custom Adapter</string>
+    <string name="grid">Grid layout</string>
+</resources>
