@@ -20,7 +20,7 @@
             android:verticalSpacing="8dp"
             android:gravity="center"
             android:stretchMode="columnWidth"
-            android:padding="16dp" />
+            android:padding="15dp" />
     </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
